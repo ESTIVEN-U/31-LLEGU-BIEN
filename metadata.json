@@ -1,0 +1,7 @@
+{
+  "name": "Llegué Bien",
+  "description": "App para estudiantes que viajan solos: registra tu destino, estima tu hora de llegada, gestiona contactos de emergencia y confirma con un toque cuando llegas a salvo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
